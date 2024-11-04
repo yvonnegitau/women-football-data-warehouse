@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/catalog/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/extraction/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/monitoring/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/orchestration/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/storage/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+    <url>
+         <loc>https://yvonnegitau.github.io/women-football-data-warehouse/transformation_modelling/</loc>
+         <lastmod>2024-11-04</lastmod>
+    </url>
+</urlset>
